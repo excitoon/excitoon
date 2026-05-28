@@ -14,7 +14,9 @@ jobs:
       - uses: excitoon-favorites/snk@v3
         with:
           github_user_name: excitoon
-          outputs: dist/github-snake.svg
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
       - uses: excitoon-favorites/ghaction-github-pages@v3
         with:
           target_branch: output
