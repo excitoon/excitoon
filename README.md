@@ -6,7 +6,7 @@
 
 # Hi, I'm Vova 👋
 
-Software engineer with MSc's in math, physics and psychology. Former ClickHouse contributor. I love data processing and retro gaming. I build tools — mostly around media, reverse engineering, build systems, and games.
+Software engineer with MSc's in math, physics and psychology. Former ClickHouse contributor. I work with data and love retro gaming. I build tools — mostly around media, reverse engineering, build systems, and games.
 
 🌐 [vova.vc](https://vova.vc) · [vova.gg](https://vova.gg) · [LinkedIn](https://linkedin.com/in/excitoon) · [Telegram](https://t.me/excitoon) · [Discord](https://discordapp.com/users/excitoon)
 
