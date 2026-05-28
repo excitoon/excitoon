@@ -68,3 +68,7 @@ Software engineer with MSc's in math, physics and psychology. Former ClickHouse 
 ### [excitoon-favorites](https://github.com/excitoon-favorites)
 
 A separate org where I mirror/fork projects I find useful or interesting — reverse engineering tools, emulators, build systems, ML frameworks, and more. Not my code, just bookmarks with version control.
+
+---
+
+![](https://raw.githubusercontent.com/excitoon/excitoon/output/github-snake.svg)
