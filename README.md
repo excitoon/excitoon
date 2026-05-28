@@ -2,7 +2,7 @@
 
 Software engineer with MSc's in math, physics and psychology. Former ClickHouse contributor. I love data processing and retro gaming. I build tools — mostly around media, reverse engineering, build systems, and games.
 
-🌐 [vova.vc](https://vova.vc) · [vova.gg](https://vova.gg) · [LinkedIn](https://linkedin.com/in/excitoon) · [Telegram](https://t.me/excitoon)
+🌐 [vova.vc](https://vova.vc) · [vova.gg](https://vova.gg) · [LinkedIn](https://linkedin.com/in/excitoon) · [Telegram](https://t.me/excitoon) · Discord: `excitoon`
 
 > ⚠️ I don't check GitHub regularly. If you need my attention — open issues, tag me, ping as much as you want. I'll get to it eventually.
 
