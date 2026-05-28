@@ -1,4 +1,4 @@
-# Hi, I'm Vladimir 👋
+# Hi, I'm Vova 👋
 
 Software engineer with MSc's in math, physics and psychology. Former ClickHouse contributor. I love data processing and retro gaming. I build tools — mostly around media, reverse engineering, build systems, and games.
 
