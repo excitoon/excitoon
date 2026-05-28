@@ -27,6 +27,7 @@ Software engineer with MSc's in math, physics and psychology. Former ClickHouse 
 | [reasm](https://github.com/excitoon/reasm) | Binary tools for various formats (MZ, etc.) |
 | [dd2vhd](https://github.com/excitoon/dd2vhd) | Convert raw disk images to VHD |
 | [gitsq](https://github.com/excitoon/gitsq) | Automatic squash tool for Git |
+| [cv](https://github.com/excitoon/cv) | TeX CV build tool (Python) |
 | [depscan](https://github.com/excitoon/depscan) | Dependency scanner |
 | [retain](https://github.com/excitoon/retain) | File retention tool (Shell) |
 | [noextrun](https://github.com/excitoon/noextrun) | Run executables without extensions on Windows |
