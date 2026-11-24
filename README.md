@@ -21,13 +21,17 @@ Software engineer with MSc's in math, physics and psychology. Former ClickHouse 
 | [gitignorefile](https://github.com/excitoon/gitignorefile) | Spec-compliant `.gitignore` parser for Python | 11 |
 | [bazel-win32-toolchain](https://github.com/excitoon/bazel-win32-toolchain) | Win32 (`x86_32`) target support for Bazel | 10 |
 | [3](https://github.com/excitoon/3) | `.gitignore`-aware tree tool in Python | 3 |
+| [buildpot](https://github.com/excitoon/buildpot) | Bazel remote execution with a Go server and C++ workers for Windows NT 3.1 and later | 1 |
+| [coolsvg-go](https://github.com/excitoon/coolsvg-go) | SVG rasterizer for large canvases with streaming BigTIFF and 8/16-bit RGB and CMYK output (Go) | 1 |
+| [noisify](https://github.com/excitoon/noisify) | Convert ELF and Mach-O shared libraries into native static libraries with a C API (Python) | 0 |
+| [ryke](https://github.com/excitoon/ryke) | Early-stage IKEv2 client and server implementation (Rust) | 0 |
+| [CryptoKiddie](https://github.com/excitoon/CryptoKiddie) | Hardware-backed document signing on macOS and Linux with PKCS#11 and direct Rutoken ECP support (Rust) | 0 |
 
 ## Tools & Utilities
 
 | Project | Description |
 |---------|-------------|
 | [bazz](https://github.com/excitoon/bazz) | Bazel Remote Execution v2 client for retro platforms (Go) |
-| [buildpot](https://github.com/excitoon/buildpot) | Remote Execution server — runs on anything from Windows NT 3.1 up (C++) |
 | [nomm](https://github.com/excitoon/nomm) | Remote command execution agent (Go) |
 | [siginfo](https://github.com/excitoon/siginfo) | Extract info from IDA signature files |
 | [reasm](https://github.com/excitoon/reasm) | Binary tools for various formats (MZ, etc.) |
@@ -41,14 +45,15 @@ Software engineer with MSc's in math, physics and psychology. Former ClickHouse 
 | [pourcupine](https://github.com/excitoon/pourcupine) | Keep git forks in sync |
 | [where-is-my-session](https://github.com/excitoon/where-is-my-session) | Extract URLs from browser session files |
 | [ecg-tools](https://github.com/excitoon/ecg-tools) | Dump and analyze ECG data |
+| [TaxKittie](https://github.com/excitoon/TaxKittie) | Calculate taxes for Russian sole proprietors and companies and generate XML returns for supported regimes (Python) |
 
 ## Hardware & Embedded
 
 | Project | Description |
 |---------|-------------|
-| [zero-bluetooth-bridge](https://github.com/excitoon/zero-bluetooth-bridge) | Flipper Zero Bluetooth bridge app (C) |
+| [zero-bluetooth-bridge](https://github.com/excitoon/zero-bluetooth-bridge) | Bridge Bluetooth Low Energy to GPIO UART on Flipper Zero (C) |
 | [zero-updater](https://github.com/excitoon/zero-updater) | Flipper Zero BLE RPC update tools (Python) |
-| [CryptoKiddie](https://github.com/excitoon/CryptoKiddie) | Crypto project (Rust) |
+| [OmRonRon](https://github.com/excitoon/OmRonRon) | macOS menu bar app that syncs blood pressure and scale readings over Bluetooth (Tauri, Python) |
 
 ## Games & Fun
 
